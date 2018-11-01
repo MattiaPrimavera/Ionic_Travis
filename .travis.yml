@@ -9,3 +9,5 @@ cache:
   - platforms
   - plugins
   - www
+script:
+  - npm run build
